@@ -1,0 +1,38 @@
+.center
+{
+  text-align: center;
+  }
+.center ul li
+{
+    list-style-type: none ;
+    display: inline-block;
+
+}  
+.listCenter {
+    list-style-position: inside;
+    text-align: center;
+
+} 
+.right
+   {
+      float: right;
+
+      width: 300px;
+    }
+img{
+
+        height: 25%;
+     
+        width: 25%;
+     
+     }
+ .center ol li
+ {
+    list-style-position: inside;
+ }
+ .center ol li {
+     font-family: 'Times New Roman', Times, serif;
+     font-size: small;
+ }    
+
+   
